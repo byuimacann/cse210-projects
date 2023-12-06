@@ -1,0 +1,7 @@
+1165
+SimpleGoal:sweep,kitchen floor,10,True
+EternalGoal:read,scriptures 10 minutes daily,20,False
+CheckListGoal:exercise,2X per week,250,True,200,2,2
+SimpleGoal:vacuum,carpet upstairs,15,True
+EternalGoal:pray,say morning prayers daily,20,True
+CheckListGoal:cook,cook 3 nights this week,600,True,500,3,3
